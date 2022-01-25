@@ -1,3 +1,6 @@
+Работа с localStorage во VueJS
+Тестовая задача на работу
+
 # vue-test
 
 > A Vue.js project
